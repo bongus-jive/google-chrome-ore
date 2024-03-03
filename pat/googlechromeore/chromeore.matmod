@@ -1,0 +1,21 @@
+{
+  "modId": 24169,
+  "modName": "pat_googlechromeore",
+  "itemDrop": "pat_googlechrome",
+  "description": "Chromium.",
+  "health": 21,
+  "harvestLevel": 6,
+  "breaksWithTile": true,
+
+  "miningSounds": [ "/sfx/tools/pickaxe_ore.ogg", "/sfx/tools/pickaxe_ore2.ogg" ],
+  "miningParticle": "orespark",
+
+  "renderTemplate": "/tiles/classicmaterialtemplate.config",
+  "renderParameters": {
+    "texture": "chromeore.png",
+    "variants": 8,
+    "multiColored": false,
+    "zLevel": 0,
+    "radiantLight" : [25, 35, 55]
+  }
+}

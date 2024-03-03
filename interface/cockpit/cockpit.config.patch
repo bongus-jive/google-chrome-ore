@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/displayOres/pat_googlechromeore",
+    "value": {
+      "displayName": "Google Chrome",
+      "icon": "/pat/googlechromeore/chrome.png"
+    }
+  }
+]

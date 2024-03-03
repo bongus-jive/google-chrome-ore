@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/pingDetectConfig/colors/pat_googlechromeore",
+    "value": [ 66, 133, 244, 255 ]
+  }
+]

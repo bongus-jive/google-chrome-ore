@@ -1,0 +1,11 @@
+{
+  "itemName": "pat_googlechrome",
+  "price": 0,
+  "rarity": "Common",
+  "category": "craftingMaterial",
+  "tooltipFields": { "subtitle": "Web Browser" },
+  "inventoryIcon": "chrome.png",
+  "description": "A web browser developed by Google.",
+  "shortdescription": "^#4285f4;G^#e94235;o^#fabb05;o^#4285f4;g^#34a853;l^#e94235;e ^#a0a0a0;Chrome^reset;",
+  "itemTags": [ "reagent" ]
+}
